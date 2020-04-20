@@ -3,4 +3,6 @@ Se trata del clásico juego de **The Big Bang Theory** Piedra, Papel, Tijeras, L
 
 Lo dejo aquí por si a alguien le pudiese servir... seguro que tiene un código horroroso, pero seguro que se puede arreglar. 
 
+Échale un vistazo a la [demo del juego](https://rasnerdev.github.io/piedrapapeltijeraslagartospock/)!
+
 Encuentra más proyectos desarrollados por mi en [Rasnerdev](https://github.com/rasnerdev) 😊
